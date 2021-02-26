@@ -1,1 +1,1 @@
-# skkku-pred
+# skku-pred
